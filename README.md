@@ -1,4 +1,9 @@
-## Hi there 👋
+# **Leonie Trobl Gomez** #
+**Betriebswirtschaft · Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen (HfWU)**
+
+Ich studiere Betriebswirtschaft an der HfWU. Auf GitHub dokumentiere ich ausgewählte Studienprojekte und gebe Einblicke in meine fachliche Entwicklung.
+
+Mein Portfolio entsteht im Laufe meines Studiums
 
 <!--
 **LeonieTroblGomez/LeonieTroblGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
